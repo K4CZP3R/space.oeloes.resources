@@ -1,5 +1,5 @@
-{
-   "pictures":[
+
+   [
       {
          "src":"https://raw.githubusercontent.com/K4CZP3R/space.oeloes.resources/master/screenshot-repo/1.png",
          "title":"Huisje van Golem",
@@ -26,4 +26,3 @@
          "desc":"10/10"
       }
    ]
-}
