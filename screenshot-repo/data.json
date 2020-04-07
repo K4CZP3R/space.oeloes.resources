@@ -1,0 +1,29 @@
+{
+   "pictures":[
+      {
+         "src":"https://raw.githubusercontent.com/K4CZP3R/space.oeloes.resources/master/screenshot-repo/1.png",
+         "title":"Huisje van Golem",
+         "desc":"10/10"
+      },
+      {
+         "src":"https://raw.githubusercontent.com/K4CZP3R/space.oeloes.resources/master/screenshot-repo/2.png",
+         "title":"Huisje van Golem's dieren",
+         "desc":"PETA Approved"
+      },
+      {
+         "src":"https://raw.githubusercontent.com/K4CZP3R/space.oeloes.resources/master/screenshot-repo/3.png",
+         "title":"Rivier vol met kleuren",
+         "desc":"10 duizend kleuren"
+      },
+      {
+         "src":"https://raw.githubusercontent.com/K4CZP3R/space.oeloes.resources/master/screenshot-repo/4.png",
+         "title":"Winkel van Kacper",
+         "desc":"Goedkoop!"
+      },
+      {
+         "src":"https://raw.githubusercontent.com/K4CZP3R/space.oeloes.resources/master/screenshot-repo/5.png",
+         "title":"Huisje van Codemiel",
+         "desc":"10/10"
+      }
+   ]
+}
